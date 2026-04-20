@@ -27,11 +27,11 @@ This repository contains the thesis chapters and supporting documentation from m
 ```
 bachelor-thesis/
 │
-├── Chapter_1_Introduction.pdf
-├── Chapter_2_Literature_Review.pdf
-├── Chapter_3_Methodology.pdf
-├── Chapter_4_Results_Discussion.pdf
-├── Chapter_5_Conclusion.pdf
+├── Chapter 1.docx
+├── Chapter 2.docx
+├── Chapter 3.docx
+├── chapter 4.docx
+├── chapter 7.docx
 └── Full_Thesis.pdf
 ```
 
